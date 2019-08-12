@@ -1,3 +1,3 @@
 #a
-num=input()
+num = input()
 print(hex(int(num,2))[2:])
